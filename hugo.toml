@@ -1,0 +1,44 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My Hugo Website"
+theme = "diwa"  # Must match your theme folder name exactly
+[params]
+  mainSections = ["posts", "products"]  # Added products to mainSections
+  description = "A modern website built with Hugo and Tailwind CSS"
+  dateFormat = "January 2, 2006"
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name       = "Home"
+    url        = "/"
+    weight     = 1
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about/"
+    weight     = 2
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts/"
+    weight     = 3
+  [[menu.main]]
+    identifier = "product"  # Added products menu item
+    name       = "Product"
+    url        = "/product/"
+    weight     = 4  # Adjusted weight
+  [[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "/contact/"
+    weight     = 5  # Adjusted weight
+  [[menu.main]]
+    identifier = "wishlist"
+    name       = "Wishlist"
+    url        = "/wishlist/"
+    weight     = 6  # Adjusted weight
+  [[menu.main]]
+    identifier = "cart"
+    name       = "Cart"
+    url        = "/cart/"
+    weight     = 7  # Adjusted weight

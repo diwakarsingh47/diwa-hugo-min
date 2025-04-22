@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electronics on My Hugo Website</title>
+    <link>http://localhost:1313/tags/electronics/</link>
+    <description>Recent content in Electronics on My Hugo Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Aug 2023 13:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4K Ultra HD Action Camera</title>
+      <link>http://localhost:1313/product/product5/</link>
+      <pubDate>Fri, 18 Aug 2023 13:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/product/product5/</guid>
+      <description>&lt;h2 id=&#34;product-description&#34;&gt;Product Description&lt;/h2&gt;&#xA;&lt;p&gt;Capture every adventure in stunning detail with our 4K Ultra HD Action Camera. Waterproof, shockproof, and equipped with a wide-angle lens, it&amp;rsquo;s perfect for vlogging, sports, or weekend escapades.&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Premium Wireless Headphones</title>
+      <link>http://localhost:1313/product/product1/</link>
+      <pubDate>Sat, 15 Apr 2023 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/product/product1/</guid>
+      <description>&lt;h2 id=&#34;product-description&#34;&gt;Product Description&lt;/h2&gt;&#xA;&lt;p&gt;Experience immersive sound with our Premium Wireless Headphones. Designed for comfort and exceptional audio quality, these headphones feature active noise cancellation technology that blocks out ambient noise, allowing you to focus on your music&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

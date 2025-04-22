@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on My Hugo Website</title>
+    <link>http://localhost:1313/contact/</link>
+    <description>Recent content in Contacts on My Hugo Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Apr 2025 10:39:06 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/contact/</link>
+      <pubDate>Tue, 15 Apr 2025 10:39:06 +0000</pubDate>
+      <guid>http://localhost:1313/contact/contact/</guid>
+      <description>&lt;h2 id=&#34;contact-us&#34;&gt;Contact Us&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;DieSachbearbeiter&lt;/li&gt;&#xA;&lt;li&gt;Choriner Straße 49&lt;/li&gt;&#xA;&lt;li&gt;10435 Berlin&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:moinsen2@blindtextgenerator.com&#34;&gt;moinsen2@blindtextgenerator.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

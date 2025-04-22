@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio on My Hugo Website</title>
+    <link>http://localhost:1313/tags/audio/</link>
+    <description>Recent content in Audio on My Hugo Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Apr 2023 12:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Premium Wireless Headphones</title>
+      <link>http://localhost:1313/product/product1/</link>
+      <pubDate>Sat, 15 Apr 2023 12:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/product/product1/</guid>
+      <description>&lt;h2 id=&#34;product-description&#34;&gt;Product Description&lt;/h2&gt;&#xA;&lt;p&gt;Experience immersive sound with our Premium Wireless Headphones. Designed for comfort and exceptional audio quality, these headphones feature active noise cancellation technology that blocks out ambient noise, allowing you to focus on your music&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
