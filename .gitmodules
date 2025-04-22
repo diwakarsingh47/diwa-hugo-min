@@ -1,0 +1,3 @@
+[submodule "themes/diwa"]
+	path = themes/diwa
+	url = https://github.com/Kevindodiya75/hugo-thems.git
